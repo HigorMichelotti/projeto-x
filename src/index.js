@@ -1,3 +1,3 @@
 function hello(){
-    alert("Olá Mundo");
+    alert("Bem vindo a Oficina: Versionamento de Código com Git e GitHub");
 }
